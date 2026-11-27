@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Data Siswa</string>
+    <string name="entry_siswa">Entry Siswa</string>
+    <string name="detail_siswa">Detail Siswa</string>
+    <string name="edit_siswa">Edit Siswa</string>
+    <string name="back">Kembali</string>
+    <string name="btn_submit">Simpan</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="telpon">Telepon</string>
+    <string name="required_field">* Wajib diisi</string>
+    <string name="loading">Memuat…</string>
+    <string name="gagal">Gagal memuat data</string>
+    <string name="retry">Coba lagi</string>
+    <string name="hapus">Hapus</string>
+    <string name="konfirmasi_hapus">Yakin ingin menghapus data ini?</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+</resources>
